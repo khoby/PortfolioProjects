@@ -1,3 +1,7 @@
+
+-- SQL Project for the Covid Vacinations as well as deaths across the world
+-- Data aquired from the official covid database site
+
 SELECT *
 FROM coviddeaths
 ORDER BY 3,4;
